@@ -13,3 +13,5 @@ In the development process, the following models have been used for prediction:
  * XGBoost
  * Prophet model
  * LSTM model
+
+**The goal** of the project was to understand the workflow behind time-series processing as well as hands-on experience with various machine learning models.
